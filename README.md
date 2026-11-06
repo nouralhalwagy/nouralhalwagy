@@ -11,16 +11,9 @@ I study Computer Science and AI at Benha University (class of 2027), majoring in
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nour--alhalwagy-24292f?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nour-alhalwagy)
 [![Kaggle](https://img.shields.io/badge/Kaggle-nouralhalwagy-24292f?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/nouralhalwagy)
 
-## What I work with
+## Skills
 
-| Area | Tools |
-| --- | --- |
-| Languages | Python, SQL, C++ |
-| Data | NumPy, pandas, Jupyter |
-| Machine learning | PyTorch, TensorFlow, Keras, JAX |
-| Computer vision and RL | YOLOv8, DQN, PPO, AirSim |
-| LLMs | LangChain, Ollama |
-| Deployment | FastAPI, Flask, Streamlit, Docker, Git, CI/CD, Microsoft Azure |
+<img src="skills.svg" alt="Languages: Python, SQL, C++. Data: NumPy, pandas, Jupyter. Machine Learning: PyTorch, TensorFlow, Keras, JAX. Computer Vision: YOLOv8. Reinforcement Learning: DQN, PPO, AirSim. LLMs: LangChain, Ollama. Deployment: FastAPI, Flask, Streamlit, Docker, Git, CI/CD, Azure." width="100%">
 
 ## Projects
 

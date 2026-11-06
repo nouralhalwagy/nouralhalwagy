@@ -5,11 +5,9 @@
 
 - Know about my experience [Here](https://github.com/nouralhalwagy/nouralhalwagy/blob/main/resume.pdf)
 
-- Ask me about **Machine Learning, Computer Vision and Reinforcement Learning**
+- Ask me about **Data Science and Machine Learning**
 
 - How to reach me **[nourtamer553@gmail.com](mailto:nourtamer553@gmail.com)**
-
-- I'm currently building **a community that gives girls across the Middle East more exposure to tech**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -18,37 +16,44 @@
 <a href="mailto:nourtamer553@gmail.com"><img align="center" src="gmail.svg" alt="Gmail" height="40" width="40" /></a>
 </p>
 
+## Currently
+
+- Building a community that gives girls across the Middle East more exposure to tech.
+- Building Smart AI Driving Alert, a demo system that helps drivers avoid traffic penalties.
+- Vice-Head of AI & Data Science at Google Developer Groups on Campus, Benha University.
+
 ## Technical Stack:
 
-### 🖥️ Programming Languages
+### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
 
-### 📊 Data
+### Libraries
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
 
-### 🤖 Machine Learning
+### Machine Learning
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
 ![JAX](https://img.shields.io/badge/JAX-5E97F6?style=flat)
 
-### 👁️ Computer Vision
+### Computer Vision
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-0B23A9?style=flat)
 
-### 🎮 Reinforcement Learning
+### Reinforcement Learning
 ![DQN](https://img.shields.io/badge/DQN-2E7D32?style=flat)
 ![PPO](https://img.shields.io/badge/PPO-00796B?style=flat)
 ![AirSim](https://img.shields.io/badge/AirSim-455A64?style=flat)
 
-### 🧠 LLMs
+### LLMs
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
 
-### 🚀 Deployment
+### Deployment
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)

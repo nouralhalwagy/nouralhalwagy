@@ -9,18 +9,14 @@
 
 - How to reach me **[nourtamer553@gmail.com](mailto:nourtamer553@gmail.com)**
 
+- I'm currently building **a community that gives girls across the Middle East more exposure to tech**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/nour-alhalwagy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" /></a>&nbsp;
 <a href="https://www.kaggle.com/nouralhalwagy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="40" width="40" /></a>&nbsp;
 <a href="mailto:nourtamer553@gmail.com"><img align="center" src="gmail.svg" alt="Gmail" height="40" width="40" /></a>
 </p>
-
-## Currently
-
-- Building a community that gives girls across the Middle East more exposure to tech.
-- Building Smart AI Driving Alert, a demo system that helps drivers avoid traffic penalties.
-- Vice-Head of AI & Data Science at Google Developer Groups on Campus, Benha University.
 
 ## Technical Stack:
 

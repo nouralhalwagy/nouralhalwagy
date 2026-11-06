@@ -34,5 +34,6 @@ A from-scratch NumPy solver for 3×3 linear systems that also detects when a sys
 
 ## Currently
 
+- Building a community that gives girls across the Middle East more exposure to tech.
 - Building Smart AI Driving Alert, a demo system that helps drivers avoid traffic penalties.
 - Vice-Head of AI & Data Science at Google Developer Groups on Campus, Benha University.

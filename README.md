@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nour Alhalwagy</h1>
+<h1 align="center">HOLAAAA, I'm Nour Alhalwagy</h1>
 <h3 align="center">"Junior Data Scientist &amp; Machine Learning Engineer"</h3>
 <img align="right" alt="Animated terminal: human.fix() raises an error because humans can't be fixed, then model.fit() lowers the loss. But models can." width="400" src="terminal.svg" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nouralhalwagy&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
@@ -16,6 +16,12 @@
 <a href="https://www.linkedin.com/in/nour-alhalwagy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" /></a>&nbsp;
 <a href="https://www.kaggle.com/nouralhalwagy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="40" width="40" /></a>&nbsp;
 <a href="mailto:nourtamer553@gmail.com"><img align="center" src="gmail.svg" alt="Gmail" height="40" width="40" /></a>
+</p>
+
+<h3 align="left">Watch me side questing in:</h3>
+<p align="left">
+<a href="https://www.youtube.com/@nouralhalwagy" target="blank"><img align="center" src="youtube.svg" alt="YouTube" height="40" width="40" /></a>&nbsp;
+<a href="https://www.tiktok.com/@noorhalwagy" target="blank"><img align="center" src="tiktok.svg" alt="TikTok" height="40" width="40" /></a>
 </p>
 
 ## Technical Stack:
